@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Rabia Tanveer - SE Student</title>
+</head>
+<body style="font-family: Arial; text-align:center; margin-top:50px;">
+<h1>Rabia Tanveer</h1>
+<h3>BS Software Engineering Student</h3>
+<hr>
+<p><b>Welcome to my first GitHub repository!</b></p>
+<p>This repository is created for my university assignment.</p>
+<p>Skills I want to learn: HTML, CSS, JavaScript, Git & GitHub</p>
+<p>Email: rabia.tanveer@example.com</p>
+</body>
+</html>
